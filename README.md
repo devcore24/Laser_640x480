@@ -14,33 +14,33 @@ __________________________
 Station 1:    
 Laser der die Chargennummer an einer genauen Position lasert.  
 
-![Laser](/src/screenshots/p/laser.jpg?raw=true "")
+![Laser](/src/screenshots/p/laser.jpg "Laser")
 
 Station 2:  
 Überprüfung der Chargennummer und der Position der Laserung.    
 
-![Kamera](/src/screenshots/p/kamera.jpg?raw=true "")
+![Camera](/src/screenshots/p/kamera.jpg "Camera")
 
 Station 3:  
 Kettenspeicher  
 
-![Kettenspeicher](/src/screenshots/p/speicher.jpg?raw=true "")
+![Kettenspeicher](/src/screenshots/p/speicher.jpg "Kettenspeicher")
 
 ___________________________
 
 Programnummer und Kettentyp:  
 
-![Programmnummer](/src/screenshots/p/programmnummer.jpg?raw=true "")
+![Programmnummer](/src/screenshots/p/programmnummer.jpg "Programmnummer")
 
 
 Störungsverwaltung:  
 
-![Störungsvewaltung](/src/screenshots/p/stoerungsverwaltung.jpg?raw=true "")
+![Störungsvewaltung](/src/screenshots/p/stoerungsverwaltung.jpg "Störungsvewaltung")
 
 
 Alle Störmeldungen:
 
-![AlleMeldungen](/src/screenshots/p/alleMeldungen.jpg?raw=true "")
+![AlleMeldungen](/src/screenshots/p/alleMeldungen.jpg "AlleMeldungen")
 
 
 

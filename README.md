@@ -3,13 +3,13 @@
 __________________________
 
 
-![chain](/src/screenshots/p/chain.jpg?raw=true "")
-![chainx](/src/screenshots/p/chain1.jpg?raw=true "")
+![chain](/src/screenshots/p/chain.jpg "Chain")
+![chainx](/src/screenshots/p/chain1.jpg "Chain2")
 
 
 ## Lasern der Chargennummer, Überprüfung und Auftragsverwaltung:
 
-![Mainmenu](/src/screenshots/p/1.jpg?raw=true "")
+![Mainmenu](/src/screenshots/p/1.jpg "Mainmenu")
 
 Station 1:    
 Laser der die Chargennummer an einer genauen Position lasert.  
